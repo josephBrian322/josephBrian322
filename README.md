@@ -9,5 +9,5 @@ I'm a Web Developer with experience in JavaScript, React, Vue, Node.js and Djang
 ![Node.js](https://img.shields.io/badge/Node.js-16.x-brightgreen?logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
 
-## Footer
+
 "Code is like humor. When you have to explain it, it’s bad." – Cory House
